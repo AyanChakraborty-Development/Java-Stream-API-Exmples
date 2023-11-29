@@ -16,3 +16,7 @@ question 6. Second-highest number from a given array
 question 7. Longest string from the given array
 
 question 8. Print all the elements in an Array that starts with 1 or 2 and so on
+
+==============================================
+
+Exercise 1 contains few Stream API refresher questions
